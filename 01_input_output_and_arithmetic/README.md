@@ -1,7 +1,7 @@
 # Step 01 - 입출력과 사칙연산
 
 ## Summary
-- Total Solved: 5
+- Total Solved: 13
 
 ---
 
