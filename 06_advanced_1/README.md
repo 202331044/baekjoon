@@ -32,4 +32,19 @@
   - 1st solution: used ASCII code to differentiate between lowercase and uppercase letters
   - 2nd solution: used `std::toupper()` to convert letters to uppercase
 
+### 6. 2941 크로아티아 알파벳
+- Time: N/A
+- Solved by Myself: Yes
+- Notes:
+	- 1st solution: used `std::string::substr()` to find Croatian alphabets
+	- 2nd solution: used `std::string::find()` to find Croatian alphabets
+
+### 7. 1316 그룹 단어 체커
+- Time: N/A
+- Solved by Myself: Yes
+
+### 8. 25206 너의 평점은
+- Time: N/A
+- Solved by Myself: Yes
+
 ---
