@@ -33,10 +33,7 @@ int main()
 					prev = str[i];
 				}	
 			}
-			else
-				prev = str[i];
 		}
-
 		if (isGroup) result++;
 	}
 
