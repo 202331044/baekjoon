@@ -1,6 +1,6 @@
 # Step 06 - 심화 1
 ## Summary
-- Total Solved: 5
+- Total Solved: 8
 
 ---
 
