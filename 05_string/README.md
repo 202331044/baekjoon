@@ -30,8 +30,8 @@
 - Time: N/A
 - Solved by Myself: Yes
 - Notes:
-  - 1st solution: used std::string::find() to get first index of each letter
-  - 2nd solution: used size-26 array for direct indexing
+	- 1st solution: Used `std::string::find()` to get the first index of each letter.
+	- 2nd solution: Used a size-26 array for direct indexing.
 
 ### 7. 2675 문자열 반복
 - Time: N/A
@@ -45,8 +45,8 @@
 - Time: N/A
 - Solved by Myself: Yes
 - Notes:
-  - 1st solution: used `std::stoi()` after reversing strings to compare numeric values
-  - 2nd solution: compared reversed strings directly without converting to integers
+	- 1st solution: Used `std::stoi()` after reversing the strings to compare numeric values.
+	- 2nd solution: Compared reversed strings directly without converting them to integers.
 
 ### 10. 5622 다이얼
 - Time: N/A
@@ -56,7 +56,7 @@
 - Time: N/A
 - Solved by Myself: Yes
 - Notes:
-  - 1st solution: used `if (str.empty())` condition to break the loop
-  - 2nd solution: handled input termination using EOF
+	- 1st solution: Used `str.empty()` to check the condition and break the loop.
+	- 2nd solution: Handled input termination using EOF.
 
 ---

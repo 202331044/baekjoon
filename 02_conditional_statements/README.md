@@ -33,6 +33,7 @@
 ### 7. 2480 주사위 세개
 - Time: N/A
 - Solved by Myself: Yes
-- Note: Initially used max((a, b), c), then switched to max({a, b, c}) (C++11+) for conciseness.
+- Notes:
+	- Initially used `std::max((a, b), c)`, then switched to `std::max({a, b, c})` (C++11+) for better conciseness.
 
 ---

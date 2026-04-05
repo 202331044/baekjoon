@@ -22,22 +22,22 @@
 - Time: N/A
 - Solved by Myself: Yes
 - Notes:
-  - 1st solution: used `std::reverse()` to check palindrome
-  - 2nd solution: used a while loop to check palindrome
+	- 1st solution: Used `std::reverse()` to check whether the string is a palindrome.
+	- 2nd solution: Used a while loop to check whether the string is a palindrome.
 
 ### 5. 1157 단어 공부
 - Time: N/A
 - Solved by Myself: Yes
 - Notes:
-  - 1st solution: used ASCII code to differentiate between lowercase and uppercase letters
-  - 2nd solution: used `std::toupper()` to convert letters to uppercase
+	- 1st solution: Used ASCII values to distinguish between lowercase and uppercase letters.
+	- 2nd solution: Used `std::toupper()` to convert all letters to uppercase.
 
 ### 6. 2941 크로아티아 알파벳
 - Time: N/A
 - Solved by Myself: Yes
 - Notes:
-	- 1st solution: used `std::string::substr()` to find Croatian alphabets
-	- 2nd solution: used `std::string::find()` to find Croatian alphabets
+	- 1st solution: Used `std::string::substr()` to detect Croatian alphabet patterns.
+	- 2nd solution: Used `std::string::find()` to search for Croatian alphabet patterns.
 
 ### 7. 1316 그룹 단어 체커
 - Time: N/A

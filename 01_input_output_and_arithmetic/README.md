@@ -54,7 +54,7 @@
 ### 12. 10171 고양이
 - Time: N/A
 - Solved by Myself: No
-- Note: Referenced ChatGPT
+- Notes: Referenced ChatGPT
   
 ### 13. 10172 개
 - Time: N/A

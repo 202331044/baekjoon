@@ -6,22 +6,22 @@
 
 ## Problem List
 
-### 1. 2745 진법 변환 (step08)
+### 1. 2745 진법 변환
 - Time: N/A
 - Solved by Myself: Yes
 - Notes:
   - 1st solution: Used `std::isdigit` to check if the character is a digit and `std::pow` to convert to decimal.
   - 2nd solution: Used conditional statements to check if the character is a digit and accumulated the result instead of using `std::pow`.
 
-### 2. 11005 진법 변환 2 (step08)
+### 2. 11005 진법 변환 2
 - Time: N/A
 - Solved by Myself: Yes
 
-### 3. 2720 세탁소 사장 동혁 (step08)
+### 3. 2720 세탁소 사장 동혁
 - Time: N/A
 - Solved by Myself: Yes
 
-### 4. 2903 중앙 이동 알고리즘 (step08)
+### 4. 2903 중앙 이동 알고리즘
 - Time: N/A
 - Solved by Myself: Yes
 - Notes:

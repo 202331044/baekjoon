@@ -53,7 +53,7 @@
 ### 12. 10951 A+B - 4
 - Time: N/A
 - Solved by Myself: No
-- Note: Referenced ChatGPT
-  - EOF (End of File): a signal indicating the end of input.
-  - In C++, input is processed until EOF using while (cin >> a >> b).
+- Notes: Referenced ChatGPT
+  - EOF (End of File): A signal indicating the end of input.
+  - Used `while (cin >> a >> b)` to read inputs until EOF.
 ---
