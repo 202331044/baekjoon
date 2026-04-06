@@ -1,6 +1,6 @@
 # Step 08 - 수학 1
 ## Summary
-- Total Solved: 4
+- Total Solved: 7
 
 ---
 
@@ -27,5 +27,20 @@
 - Notes:
   - 1st solution: Used a for loop to accumulate the number of points.
   - 2nd solution: Applied the formula (number of points per side = 2^n + 1) to compute the total number of points.
+
+### 5. 2292 벌집
+- Time: N/A
+- Solved by Myself: Yes
+
+### 6. 1193 분수찾기
+- Time: N/A
+- Solved by Myself: Yes
+- Notes:
+  - 1st solution: Used while loop to compute fraction.
+  - 2nd solution: Used offset (difference) to compute fraction directly.
+
+### 7. 2869 달팽이는 올라가고 싶다
+- Time: N/A
+- Solved by Myself: Yes
 
 ---
