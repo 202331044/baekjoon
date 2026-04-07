@@ -32,5 +32,8 @@
 ### 6. 11653 소인수분해
 - Time: N/A
 - Solved by Myself: Yes
+- Notes:
+  - 1st solution: Incremented divisor i from 2 upward and divided n whenever possible.
+  - 2nd solution: Checked divisors only up to √n and handled the remaining prime factor at the end.
 
 ---
