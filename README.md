@@ -24,6 +24,8 @@ Each folder contains:
 
 ## 📊 Progress
 
+- Total Solved: 86
+
 | Folder | Solved | Link |
 |--------|--------|------|
 | 01_input_output_and_arithmetic | 13 problems | [View](./01_input_output_and_arithmetic) |
@@ -35,6 +37,6 @@ Each folder contains:
 | 07_2d_array | 4 problems | [View](./07_2d_array) |
 | 08_math_1 | 7 problems | [View](./08_math_1) |
 | 09_divisors_multiples_and_primes_1 | 6 problems | [View](./09_divisors_multiples_and_primes_1) |
-| 10_geometry_1_rectangles_and_triangles | 4 problems | [View](./10_geometry_1_rectangles_and_triangles) |
+| 10_geometry_1_rectangles_and_triangles | 8 problems | [View](./10_geometry_1_rectangles_and_triangles) |
 
 --- 
