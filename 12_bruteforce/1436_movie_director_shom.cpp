@@ -56,6 +56,7 @@ void solution2(const int& n)
 				range *= 10;
 			}
 
+
 			for (int i = -start; i < range - start; ++i)
 			{
 				cnt++;
@@ -70,6 +71,28 @@ void solution2(const int& n)
 	}
 }
 
+void solution3(const int& n)
+{
+	int num{ 666 }, cnt{};
+
+	while (cnt < n)
+	{
+		int tmp = num;
+		int sixCnt{};
+		while (tmp > 0 && sixCnt < 3)
+		{
+			if (tmp % 10 == 6) sixCnt++;
+			else sixCnt = 0;
+			tmp /= 10;
+		}
+
+		if (sixCnt == 3) cnt++;
+		num++;
+	}
+
+	cout << num - 1 << "\n";
+}
+
 int main()
 {
 	cin.tie(nullptr);
@@ -78,7 +101,7 @@ int main()
 	int n{};
 	cin >> n;
 
-	solution2(n);
-
+	solution3(n);
+	
 	return 0;
 }
