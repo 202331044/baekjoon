@@ -1,6 +1,6 @@
 # Step 12 - 브루트 포스
 ## Summary
-- Total Solved: 4
+- Total Solved: 6
 
 ---
 
@@ -28,6 +28,18 @@
   - 2nd solution: Used Cramer's rule to compute (x, y).
   - 
 ### 4. 1018 체스판 다시 칠하기
+- Time: N/A
+- Solved by Myself: Yes
+
+### 5. 1436 영화감독 숌
+- Time: N/A
+- Solved by Myself: Yes
+- Notes:
+  - 1st solution: Converted each number to a string and checked whether it contains '666'.
+  - 2nd solution: Generated only numbers that contain '666' and counted them.
+  - 3rd solution: Checked each number using modulo operations without converting it to a string to detect '666'.
+
+### 6. 2839 설탕 배달
 - Time: N/A
 - Solved by Myself: Yes
 
