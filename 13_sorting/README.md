@@ -50,7 +50,7 @@
 - Time: N/A
 - Solved by Myself: Yes
  
-### 8. 11651 좌표 정렬하기 2 (step13)
+### 8. 11651 좌표 정렬하기 2
 - Time: N/A
 - Solved by Myself: Yes
 - Notes:

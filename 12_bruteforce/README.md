@@ -26,7 +26,7 @@
 - Notes:
   - 1st solution: Used a for loop to enumerate all possible (x, y) pairs.
   - 2nd solution: Used Cramer's rule to compute (x, y).
-  - 
+
 ### 4. 1018 체스판 다시 칠하기
 - Time: N/A
 - Solved by Myself: Yes
