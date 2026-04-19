@@ -24,7 +24,7 @@ Each folder contains:
 
 ## 📊 Progress
 
-- Total Solved: 97
+- Total Solved: 107
 
 | Folder | Solved | Link |
 |--------|--------|------|
@@ -39,6 +39,6 @@ Each folder contains:
 | 09_divisors_multiples_and_primes_1 | 6 problems | [View](./09_divisors_multiples_and_primes_1) |
 | 10_geometry_1_rectangles_and_triangles | 8 problems | [View](./10_geometry_1_rectangles_and_triangles) |
 | 11_time_complexity | 7 problems | [View](./11_time_complexity) |
-| 12_bruteforce | 4 problems | [View](./12_bruteforce) |
-
+| 12_bruteforce | 6 problems | [View](./12_bruteforce) |
+| 13_sorting | 8 problems | [View](./13_sorting) |
 --- 
