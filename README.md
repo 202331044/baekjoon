@@ -24,7 +24,7 @@ Each folder contains:
 
 ## 📊 Progress
 
-- Total Solved: 107
+- Total Solved: 110
 
 | Folder | Solved | Link |
 |--------|--------|------|
@@ -40,5 +40,5 @@ Each folder contains:
 | 10_geometry_1_rectangles_and_triangles | 8 problems | [View](./10_geometry_1_rectangles_and_triangles) |
 | 11_time_complexity | 7 problems | [View](./11_time_complexity) |
 | 12_bruteforce | 6 problems | [View](./12_bruteforce) |
-| 13_sorting | 8 problems | [View](./13_sorting) |
+| 13_sorting | 11 problems | [View](./13_sorting) |
 --- 
