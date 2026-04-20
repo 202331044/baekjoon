@@ -1,6 +1,6 @@
 # Step 13 - 정렬
 ## Summary
-- Total Solved: 8
+- Total Solved: 11
 
 ---
 
@@ -57,4 +57,25 @@
   - 1st solution: Used cmp function to sort by y, then x.
   - 2nd solution: Used lambda function to sort by y, then x.
 
+### 9. 1181 단어 정렬
+- Time: N/A
+- Solved by Myself: Yes
+- Notes:
+  - 1st solution: Used `std::unordered_map` to remove duplicate words.
+  - 2nd solution: Used `std::unique` and `std::vector::erase` to remove duplicate words.
+
+ ### 10. 10814 나이순 정렬
+- Time: N/A
+- Solved by Myself: No
+- Notes:
+  - Initially stored age as a string, which caused incorrect sorting results.
+  - Fixed the issue by changing the age type to `int`
+ 
+### 11. 18870 좌표압축
+- Time: N/A
+- Solved by Myself: Yes
+- Notes:
+  - 1st solution: Used `std::unordered_map` to map each value to its compressed index.
+  - 2nd solution: Used sorting + `std::unique` + `std::vector::erase` to remove duplicate values, then applied `std::lower_bound` to compute compressed indices.
+  
 ---
